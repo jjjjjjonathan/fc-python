@@ -1,8 +1,0 @@
-name: fcpython
-
-dependencies:
-  - numpy=1.23
-  - pandas=1.5
-  - matplotlib=3.6
-  - ipykernel=6.19
-  - squarify=0.4
