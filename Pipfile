@@ -11,6 +11,8 @@ ipykernel = "*"
 squarify = "*"
 joypy = "*"
 streamlit = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
